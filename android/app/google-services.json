@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1040080555982",
+    "firebase_url": "https://masswardrobe-default-rtdb.firebaseio.com",
+    "project_id": "masswardrobe",
+    "storage_bucket": "masswardrobe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040080555982:android:74150f2ef558b75acba59f",
+        "android_client_info": {
+          "package_name": "com.example.masswardrobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfpC8r-eTVzOYZ59XLNDqfRcQgbTBDiVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
